@@ -1,4 +1,5 @@
 files <- c(
+  'https://data.gov.ua/dataset/8c792a9f-6cda-42f8-8b12-04e8a046ff0e/resource/4840b2d1-e09c-45ea-b4a7-e6d84826aece/download/f35_01_2020.xlsx',
   'https://data.gov.ua/dataset/8c792a9f-6cda-42f8-8b12-04e8a046ff0e/resource/b8a0cd21-6c40-460e-83e6-4bef5310108f/download/f35_12_2019.xlsx',
   'https://data.gov.ua/dataset/8c792a9f-6cda-42f8-8b12-04e8a046ff0e/resource/169da93c-b5f7-4fd3-86ea-2dffa45fd867/download/f35_11_2019.xlsx',
   'https://data.gov.ua/dataset/8c792a9f-6cda-42f8-8b12-04e8a046ff0e/resource/dedb39d4-5de9-4d29-80ab-28728f24c5da/download/f35_10_2019.xlsx',
@@ -10,7 +11,11 @@ files <- c(
   'https://data.gov.ua/dataset/8c792a9f-6cda-42f8-8b12-04e8a046ff0e/resource/8e7411ab-5db5-4a2d-97e6-7a8920c609cf/download/f35_04_2019.xlsx',
   'https://data.gov.ua/dataset/8c792a9f-6cda-42f8-8b12-04e8a046ff0e/resource/753ec829-375c-4736-8b71-8490aceb4fc1/download/f35_03_2019.xlsx',
   'https://data.gov.ua/dataset/8c792a9f-6cda-42f8-8b12-04e8a046ff0e/resource/ac653402-3373-4460-b597-9fd0d2f495fe/download/f35_02_2019.xlsx',
-  'https://data.gov.ua/dataset/8c792a9f-6cda-42f8-8b12-04e8a046ff0e/resource/e6dcf57b-ca58-48b6-86b3-c992e3719090/download/f35_01_2019.xlsx'
+  'https://data.gov.ua/dataset/8c792a9f-6cda-42f8-8b12-04e8a046ff0e/resource/e6dcf57b-ca58-48b6-86b3-c992e3719090/download/f35_01_2019.xlsx', 
+  'https://data.gov.ua/dataset/8c792a9f-6cda-42f8-8b12-04e8a046ff0e/resource/938a668a-203e-4a27-a330-526aa864e3eb/download/f35_12_2018.xlsx',
+  'https://data.gov.ua/dataset/8c792a9f-6cda-42f8-8b12-04e8a046ff0e/resource/7fd6c388-b95a-4709-9093-4d9f900452b3/download/f35_11_2018.xlsx',
+  'https://data.gov.ua/dataset/8c792a9f-6cda-42f8-8b12-04e8a046ff0e/resource/99a2f1db-3d71-4d56-abdc-e3d06120a970/download/f35_10_2018.xlsx',
+  'https://data.gov.ua/dataset/8c792a9f-6cda-42f8-8b12-04e8a046ff0e/resource/5c16f396-903a-496d-9310-19bd2087e699/download/f35_09_2018.xlsx'
   )
 
 for(i in files) {
